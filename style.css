@@ -9,3 +9,7 @@ img {
     list-style: none;
     font-family: 'Hanalei Fill', cursive;
 }
+#img {
+    width: 400px;
+    height: 400px;
+}
